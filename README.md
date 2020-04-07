@@ -24,11 +24,11 @@ ans: 10 bits
 
 ## Q3
 ```$ python HW1.py -s r -f 0 -r 10```
-![](https://i.imgur.com/wqAQPac.png =400x)
+![](Figure_1.png)
 
 ## Q4
 ```$ python HW1.py -s r -f 800 -r 10```
-![](https://i.imgur.com/6oSQYNT.png =400x)
+![](Figure_2.png)
 
 ## Q5
 From Q3, we can see that the Roulette wheel selection can improve the fitness in a acceptable speed.
@@ -37,11 +37,11 @@ The 800 bias is large enough to make the Roulette wheel selection hard to select
 
 ## Q6
 ```$ python HW1.py -s t -f 0 -r 10```
-![](https://i.imgur.com/EXyAQM1.png =400x)
+![](Figure_3.png)
 
 ## Q7
 ```$ python HW1.py -s t -f 800 -r 10```
-![](https://i.imgur.com/ygO8Pei.png =400x)
+![](Figure_4.png)
 
 ## Q8
 It seems that there is nearly no difference between Q6 result and Q7 result. Both of them are improve the fitness very fast and has good stability.
